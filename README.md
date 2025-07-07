@@ -5,7 +5,8 @@
 * **Data Cleaning :** _Excel and Power Query_
 * **Visualization :** _PowerBI_
 
-### Attributes
+<Details> 
+<summary> About the data </summary>
 1. Transaction_ID – A unique identifier assigned to each purchase transaction.
 2. Customer_Name – The name of the customer who made the purchase.
 3. Customer_Age – The age of the customer at the time of the transaction.
@@ -20,12 +21,14 @@
 12. Purchase_Date – The date when the transaction took place.
 13. Customer_Satisfaction_Rating – A numeric score representing the customer's satisfaction with the purchase.
 14. Return_Status – Indicates whether the product was returned or not (e.g., Yes, No, Returned).
+</Details> 
 
+<details> <summary>Preproecessing the data! </summary>
 In this **Customer_Age** have so many missing values, **Quantity** had so many null values and 0 as value, **Discount_Applied** had so many missing values, **Purchase_Date** had a non-unifrom format of date and **Return_status** also has non-unifrom datas.
 By using Excel and PowerQuery, we can rectify these issues.
-
 * Customer_Age - using "Fill" the values are filled from top to bottom, since there are nearly 50% of null values in the data, filling with Mean or median is not preffered.
 * Quantity - using excel, I have filled the null and Zero values with 1.
 * Discount_Applied -  The null values in this can be denoted as 0, since it means no discount is applied.
 * Purchase_Date - using excel text formula, we can normalize the date fromat.
 * Return_status- Using Excel If formula, I converted data into either "Returned" or "Not Returned"
+</details>
