@@ -24,6 +24,7 @@
 </Details> 
 
 <details> <summary>Preproecessing the data! </summary>
+
 In this **Customer_Age** have so many missing values, **Quantity** had so many null values and 0 as value, **Discount_Applied** had so many missing values, **Purchase_Date** had a non-unifrom format of date and **Return_status** also has non-unifrom datas.
 By using Excel and PowerQuery, we can rectify these issues.
   
@@ -33,3 +34,5 @@ By using Excel and PowerQuery, we can rectify these issues.
 * Purchase_Date - using excel text formula, we can normalize the date fromat.
 * Return_status- Using Excel If formula, I converted data into either "Returned" or "Not Returned"
 </details>
+
+#
