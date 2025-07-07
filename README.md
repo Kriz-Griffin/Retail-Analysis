@@ -26,6 +26,7 @@
 <details> <summary>Preproecessing the data! </summary>
 In this **Customer_Age** have so many missing values, **Quantity** had so many null values and 0 as value, **Discount_Applied** had so many missing values, **Purchase_Date** had a non-unifrom format of date and **Return_status** also has non-unifrom datas.
 By using Excel and PowerQuery, we can rectify these issues.
+  
 * Customer_Age - using "Fill" the values are filled from top to bottom, since there are nearly 50% of null values in the data, filling with Mean or median is not preffered.
 * Quantity - using excel, I have filled the null and Zero values with 1.
 * Discount_Applied -  The null values in this can be denoted as 0, since it means no discount is applied.
