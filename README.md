@@ -38,3 +38,11 @@ By using Excel and PowerQuery, we can rectify these issues.
 # Sales Analysis
 
 <img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/1.png">
+
+# Customer Analysis
+
+<img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/2.png">
+
+# Overall analysis
+
+<img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/3.png">
