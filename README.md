@@ -35,4 +35,6 @@ By using Excel and PowerQuery, we can rectify these issues.
 * Return_status- Using Excel If formula, I converted data into either "Returned" or "Not Returned"
 </details>
 
-#
+# Sales Analysis
+
+<img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/1.png">
