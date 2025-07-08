@@ -39,6 +39,12 @@ By using Excel and PowerQuery, we can rectify these issues.
 
 <img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/1.png">
 
+* There is a decline in 2025 sales, indicating that the reduce in demand and other issues with the company.
+* The average sales did not reach the goal of the average sales of previous years, indicating the decline in performance.
+* Electronics (Rural - 129K) dominates in rural store types, but urban sales for electronics are quite low (57K). Groceries (Urban - 118K) is the top performer in urban locations, implying higher footfall or demand in dense urban markets. Stationery performs well in both rural (111K) and suburban areas (101K), indicating balanced demand across regions.
+* Product category and Return Status are given as interactive slicing to understand category wise performance.
+
+
 # Customer Analysis
 
 <img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/2.png">
