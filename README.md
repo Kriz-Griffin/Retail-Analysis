@@ -49,6 +49,12 @@ By using Excel and PowerQuery, we can rectify these issues.
 
 <img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/2.png">
 
+* The top 10 locations with highest customer satisfaction is given in this visualization, It can change based on the slicer.
+* The average customer satisfaction is 2.7, which is below average since the maximum is 6.
+* The Senior Age Group has an average customer satisfaction of 3.14, which is slightly above average. Indicating that they are much more satisfied than other age groups.
+* The adult customer generates majority of revenue (approximately 84%), then senior and young people coming behing them respectively.
+* 
+
 # Overall analysis
 
 <img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/3.png">
