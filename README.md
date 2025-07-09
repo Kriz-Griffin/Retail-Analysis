@@ -65,4 +65,8 @@ By using Excel and PowerQuery, we can rectify these issues.
 * In the year 2023 the products not returned (0.53M) is more than products returned (0.50M) which is a good sign. When it comes to the year 2024 the returned amount (0.71 M) is more than not returned (0.69 M). In the year 2025, the sales even went down and even the returned (0.20 M) is greater than not returned (0.19 M).
 
 ### Key findings 
+1. The total revenue is 2.63 M, but about half of the products are returned which means onlt 1.4 M is the actual revenue since we have to refund people who returned the products.
+2. The comapny is not in a good position when it comes to customer satisfaction, the average customer satisfaction is 2.7 where 6 is the maximum in customer satisfaction level
+3. The sales in 2025 is going down, which means the company is in loss.
+4. Most of the customers are adults, which means we should focus on satisfying that age category the most by providing the products they like most with good quality.
 
