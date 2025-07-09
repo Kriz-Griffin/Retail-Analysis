@@ -7,6 +7,7 @@
 
 <Details> 
 <summary> About the data </summary>
+  
 1. Transaction_ID – A unique identifier assigned to each purchase transaction.
 2. Customer_Name – The name of the customer who made the purchase.
 3. Customer_Age – The age of the customer at the time of the transaction.
