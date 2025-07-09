@@ -58,3 +58,11 @@ By using Excel and PowerQuery, we can rectify these issues.
 # Overall analysis
 
 <img src = "https://github.com/Kriz-Griffin/Retail-Analysis/blob/bee9cab41b9e611d30bf83520fab1c06cd53b792/img/3.png">
+
+* 48.67% of product is returned, that is not a good sign.
+* Nearly half of the bought product being returned indicates that the customers are not that satisfied or the product selling is not upto the qualiity.
+* The net sales goal is 3 M and we are 6% behhind.
+* In the year 2023 the products not returned (0.53M) is more than products returned (0.50M) which is a good sign. When it comes to the year 2024 the returned amount (0.71 M) is more than not returned (0.69 M). In the year 2025, the sales even went down and even the returned (0.20 M) is greater than not returned (0.19 M).
+
+### Key findings 
+
